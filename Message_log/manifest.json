@@ -1,0 +1,15 @@
+{
+  "name": "Message Log (NoDelete Fix)",
+  "description": "Logs deleted and edited messages (including embeds) per channel, with a Clear Log action on channel long-press.",
+  "authors": [
+    { "name": "AI-Generated", "id": "0" }
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "",
+  "vendetta": {
+    "icon": "",
+    "original": "https://vd-plugins.github.io/proxy/meqativ.github.io/dumsane/NoDelete/"
+  }
+}
+
