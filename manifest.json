@@ -7,7 +7,7 @@
                         "id":  "0"
                     }
                 ],
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "main":  "index.js",
     "source":  "https://dtesters.github.io/revenge-message-log/",
     "vendetta":  {
