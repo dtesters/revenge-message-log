@@ -1,0 +1,11 @@
+﻿{
+    "main":  "index.js",
+    "description":  "Logs deleted and edited messages (including embeds) per channel, with a Clear Log action on channel long-press.",
+    "name":  "Message Log (NoDelete Fix)",
+    "authors":  [
+                    {
+                        "name":  "dtesters"
+                    }
+                ],
+    "version":  "1.0.2"
+}
