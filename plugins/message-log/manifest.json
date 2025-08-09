@@ -1,11 +1,15 @@
 ﻿{
-    "main":  "index.js",
-    "description":  "Logs deleted and edited messages (including embeds) per channel, with a Clear Log action on channel long-press.",
     "name":  "Message Log (NoDelete Fix)",
+    "description":  "Logs deleted and edited messages (including embeds) per channel, with a Clear Log action on channel long-press.",
     "authors":  [
                     {
                         "name":  "dtesters"
                     }
                 ],
-    "version":  "1.0.2"
+    "main":  "index.js",
+    "vendetta":  {
+                     "icon":  "ic_messages"
+                 },
+    "hash":  "3b7d25d9f2bf11e309d959d17d40abd1ee626ebc97a2ac930ac54fc8f57b955b",
+    "version":  "1.0.3"
 }
